@@ -7,7 +7,7 @@ Developed an AWS DeepRacer model using Python and the Proximal Policy Optimizati
 ![AWS](https://img.shields.io/badge/Built%20With-AWS-orange)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-PPO-blue)
 ![TensorFlow](https://img.shields.io/badge/Powered%20By-TensorFlow-brightgreen)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-Always_Improving-yellow
 
 ---
 
