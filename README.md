@@ -59,6 +59,15 @@ Developed an AWS DeepRacer model using Python and the Proximal Policy Optimizati
 
 ---
 
+## 🎥 Demo
+
+Here’s a short demonstration of the AWS DeepRacer model navigating the track:
+
+<video width="700" controls>
+  <source src="aws deepracer part 2/aws deepracer part 2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 🙌 Acknowledgments
 
 - **AWS DeepRacer Community** – For resources and support in developing and refining reinforcement learning models.
